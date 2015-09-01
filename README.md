@@ -43,6 +43,6 @@ See the following URL for more information:
 
 http://alvinalexander.com/scala/simple-akka-actors-remote-example
 
-note: this repo is a forked version of the Alvin's original code with chagnes to make it work with akka 2.3 and scala 2.11.7
+note: this repo is a forked version of the Alvin's original code with changes to make it work with akka 2.3 and scala 2.11.7
 
 
